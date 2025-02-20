@@ -24,7 +24,7 @@
 ---
 
 ### 📌 Featured Projects 
-🔹 [Nombre del Proyecto 1](https://github.com/tuusuario/proyecto1) -  description  
+🔹 [WEB PAGE](https://github.com/LizbethSC66/web-page-NinjaSquad) -  description  
 🔹 [Nombre del Proyecto 2](https://github.com/tuusuario/proyecto2) -  description
 
 ---
