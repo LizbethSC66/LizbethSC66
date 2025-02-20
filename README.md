@@ -1,9 +1,9 @@
-<h1 align="center">Hello, my name is [Lizbeth Saucedo Camacho] 👋</h1>
+<h1 align="center">Hello, my name is Lizbeth Saucedo Camacho 👋</h1>
 
 <p align="center">
   🚀 Software developer student | Java | ESP32 | Android | MySQL  
   <br>
-  📫 contact[lixx.doll.66@gmail.com] | [LinkedIn](https://linkedin.com/in/lizbeth-saucedo-camacho-190451203)  
+  📫 contact [lixx.doll.66@gmail.com] | [LinkedIn] (https://linkedin.com/in/lizbeth-saucedo-camacho-190451203)  
 </p>
 
 ---
@@ -24,8 +24,8 @@
 ---
 
 ### 📌 Featured Projects 
-🔹 [WEB PAGE](https://github.com/LizbethSC66/web-page-NinjaSquad) -  description  
-🔹 [Nombre del Proyecto 2](https://github.com/tuusuario/proyecto2) -  description
+🔹 [WEB PAGE](https://github.com/LizbethSC66/web-page-NinjaSquad) -  web page created with html, css and java  
+🔹 [Photo gallery app](https://github.com/LizbethSC66/photo-gallery) -  application made in ionic + angular to manage photos, capture and store them
 
 ---
 
