@@ -10,7 +10,7 @@
 
 ### 🚀 About me
 - 💻 **Skills:** [C#,HTML,CSS,Operating systems,MySQl,mobile apps, Java]  
-- 📍 **location:** [Mexico/Aguascalientes]  
+- 📍 **Location:** [Mexico/Aguascalientes]  
 - 🎯 **Objetive:** Looking for opportunities as [software development intern] 
 
 ---
